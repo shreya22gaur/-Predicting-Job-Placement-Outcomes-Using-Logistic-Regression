@@ -41,9 +41,7 @@ job-placement-prediction/
 ├── placement.pkl # Saved trained model (optional)
 ├── README.md # Project readme
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -70,7 +68,7 @@ Edit
 
 ## 📊 Results
 
-- Achieved ~XX% accuracy (replace with actual)
+- Achieved ~97% accuracy 
 - Top predictive features: `ssc_p`, `hsc_p`, `degree_p`, `etest_p`, `workex`, etc.
 
 ---
@@ -83,5 +81,5 @@ Edit
 
 ---
 
-## 📁 Project Structure
+
 
